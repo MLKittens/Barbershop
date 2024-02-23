@@ -8,6 +8,7 @@
 [Peter Wonka](http://peterwonka.net/)<br/>
 
 
+
 > [arXiv](https://arxiv.org/abs/2106.01505) | [BibTeX](#bibtex) | [Project Page](https://zpdesu.github.io/Barbershop/) | [Video](https://youtu.be/ZU-yrAvoJfQ)
 
 
